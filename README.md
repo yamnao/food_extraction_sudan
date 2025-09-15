@@ -18,4 +18,4 @@ To run the code you will need to have R install in your computer.
 
 ## Data Access
 
-The data required to run the code are not publicly available due to privacy restrictions. If you would like to request access to the data, please contact [Your Contact Information].
+The data required to run the code are not publicly available due to privacy restrictions. If you would like to request access to the data, please email yamna.ouchtar@lshtm.ac.uk.
